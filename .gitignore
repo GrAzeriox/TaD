@@ -1,2 +1,10 @@
 .idea/
+Data/
+obj/
 *.iml
+*.png
+*.mp4
+*.csv
+*.shp
+*.geojson
+*.json
